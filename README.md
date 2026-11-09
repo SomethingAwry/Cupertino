@@ -55,7 +55,7 @@
 
 ### Option A — Easiest (no git) / En kolay
 ```bash
-curl -L https://github.com/ahmeteminarn2013-cell/Cupertino/archive/refs/heads/main.tar.gz | tar xz && cd Cupertino-main && ./install.sh
+curl -L https://github.com/SomethingAwry/Cupertino/archive/refs/heads/main.tar.gz | tar xz && cd Cupertino-main && ./install.sh
 ```
 Or: green **Code** button → **Download ZIP** → extract → run `./install.sh` in the folder.
 
