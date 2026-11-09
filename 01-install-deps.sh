@@ -6,7 +6,6 @@ echo ">> Global menü paketleri kuruluyor..."
 sudo apt update
 sudo apt install -y \
     xfce4-appmenu-plugin \
-    appmenu-gtk2-module \
     appmenu-gtk3-module \
     appmenu-registrar
 echo ">> Kuruldu. Şimdi 02-apply-style.sh çalıştır (sudo gerekmez)."
